@@ -1,0 +1,1 @@
+The repository has been automatically initialized to apply default settings.
